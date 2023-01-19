@@ -1,4 +1,4 @@
-# imagesliderapp
+# Flutter-Imageslider
 
 A new Flutter project.
 
